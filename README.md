@@ -1,1 +1,1 @@
-# -two-factor-auth-with-google-authenticator-
+# -two-factor-auth-use-google-authenticator-
